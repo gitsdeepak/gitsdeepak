@@ -12,14 +12,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gitsdeepak.gitsdeepak)
 [![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
 
-Here are some ideas to get you started:
+## About me😁
 
 - 🌱 I’m currently learning UI/UX Design, 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate/
 - 🤔 I’m looking for help or to collaborate on anything that requires code ;)
 - 💬 Ask me about Bootstrap
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: Via <a href="https://www.linkedin.com/in/deepak-ds">
+  <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 - ⚡ Fun fact: ...
 
 
