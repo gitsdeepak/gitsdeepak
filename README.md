@@ -21,6 +21,7 @@
 - 📫 How to reach me: Via <a href="https://www.linkedin.com/in/deepak-ds">
   <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 - ⚡ Fun fact: ...
 
 
