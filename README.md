@@ -1,4 +1,7 @@
-### Hi there, I am Deepak 👋
+### Hi, I am Deepak 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gitsdeepak.gitsdeepak)
+[![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
 
 <a href="https://www.linkedin.com/in/deepak-ds">
   <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,9 +11,6 @@
 </a>
 </br>
 </br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gitsdeepak.gitsdeepak)
-[![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
 
 ## About me😁
 
