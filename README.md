@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning UI/UX Design, 
 - 👯 I’m looking to collaborate/
 - 🤔 I’m looking for help or to collaborate on anything that requires code ;)
+- ⚡ Available for Freelance projects/internship opportunities.
 - 💬 Ask me about Bootstrap
 - 📫 How to reach me: Via <a href="https://www.linkedin.com/in/deepak-ds">
   <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
