@@ -9,6 +9,9 @@
 <a href="https://medium.com/@deepakds">
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://github.com/gitsdeepak">
+  <img align="left" alt="Deepak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 </br>
 </br>
 
