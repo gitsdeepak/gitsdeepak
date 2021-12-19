@@ -35,8 +35,15 @@
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitsdeepak&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsdeepak&layout=compact&title_color=fff&theme=radical)
 
+| ![Deepak GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitsdeepak) | If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/deepakds) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/deepakds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> |
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/gitsdeepak/master/soc/snake.svg)
