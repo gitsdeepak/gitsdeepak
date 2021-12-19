@@ -41,10 +41,10 @@ If you like what I do, support me by buying me a [coffee](https://www.buymeacoff
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+  
 
-</div>
-
-
-#### Watch my contribution graph being eaten by a Snake! 🐍
+### Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/gitsdeepak/gitsdeepak/master/soc/snake.svg)
+
+</div>
