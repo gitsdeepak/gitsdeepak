@@ -36,9 +36,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsdeepak&layout=compact&title_color=fff&theme=radical)
 ![Deepak GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitsdeepak)
 
-#### If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/deepakds) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/deepakds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> 
-
 <div align="center">
+  
+### If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/deepakds) and let's do more useful content! <br /> <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /> <br /> <a href="https://www.buymeacoffee.com/deepakds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> 
+
+
 
 ### Show some ❤️ by starring some of the repositories!
   
