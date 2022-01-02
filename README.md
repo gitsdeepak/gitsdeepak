@@ -1,4 +1,4 @@
-### Hi, I am Deepak 👋
+### Hi, I am Deepak 👋<img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gitsdeepak.gitsdeepak)
 [![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
