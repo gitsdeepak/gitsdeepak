@@ -1,10 +1,11 @@
 ### Hi, I am Deepak 👋<img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gitsdeepak.gitsdeepak)
-[![GitHub followers](https://img.shields.io/github/followers/amolsr.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/gitsdeepak.svg?style=social&label=Follow)](https://github.com/gitsdeepak?tab=followers)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepak-ds)
 
 <a href="https://www.linkedin.com/in/deepak-ds">
-  <img align="left" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Deepak's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@deepakds">
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -42,7 +43,7 @@
 
 <div align="center">
   
-### If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/deepakds) and let's do more useful content! <br /> <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /> <br /> <a href="https://www.buymeacoffee.com/deepakds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> 
+### If you like what I do, support me by buying me a [coffee](https://www.buymeacoffee.com/deepakds) and let's do more useful content! <br /> <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /> <br /> <a href="https://www.buymeacoffee.com/deepakds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="50px" width="197px" /></a> 
 
 
 
