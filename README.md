@@ -33,6 +33,13 @@
 
 - ⚡ Fun fact: ...
 
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+
 #### Also interested in:
  UI/UX Design, Digital Marketing, SEO, Blogging, Wordpress.
 
