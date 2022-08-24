@@ -26,9 +26,10 @@
 - 🤔 I’m looking for help or to collaborate on anything that requires code ;)
 - ⚡ Available for Freelance projects/internship opportunities.
 - 💬 Ask me about Bootstrap
-- 📫 How to reach me: Via  <a href="https://www.linkedin.com/in/deepak-ds">
-  <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 📫 How to reach me: Via <!-- <a href="https://www.linkedin.com/in/deepak-ds">
+  <img align="center" alt="Deepak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
+</a>    -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepak-ds)
 
 - ⚡ Fun fact: ...
 
@@ -37,9 +38,11 @@
 
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitsdeepak&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitsdeepak&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsdeepak&layout=compact&title_color=fff&theme=radical)
 <!--![Deepak GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitsdeepak)  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitsdeepak&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitsdeepak&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  -->
 
 <div align="center">
   
